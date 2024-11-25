@@ -1,5 +1,10 @@
 -101719-1-
 2024 1학기 
+컴퓨터공학과(4학년)
+
+This class aims to leam the principles of advanced machine learning. The course covers conventional machine earning techniques as well as modem doep learning techniques for regression, classification, compression, and clustering tasks. Particularly, it will focus on practical approaches to solving real-world problems.
+
+
 Topics, Assignments, Requirod Studies
 
 Linear Regression, Gradient Descent
